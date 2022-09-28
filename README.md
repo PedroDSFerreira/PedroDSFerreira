@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://inbrain-llc.herokuapp.com/images/our_skill.gif" align="center" style="width: 50%" />
+<img src="header.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -16,13 +16,13 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr valign="middle"><td align="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PedroDSFerreira&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=PedroDSFerreira&show_icons=true&count_private=true&hide_border=true"/>
 
-</td><td valign="top" width="50%">
+</td><td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDSFerreira&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDSFerreira&hide_border=true&layout=compact"/>
 
 </td></tr></table>  
 <br/>  
