@@ -39,7 +39,7 @@
 <a href="https://gitlab.com/https://gitlab.ubiwhere.com/pedroferreira" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:pedrodsf@ua.pt" target="_blank">
+<a href="mailto:pedrodsf21@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/mail-%2324292e.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>
 </div>  
