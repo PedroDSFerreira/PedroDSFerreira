@@ -8,23 +8,16 @@
 
 ## 👋 Hi, I’m Pedro Ferreira   
 
-- 🎓 I'm currently studying **Computer and Informatics Engineering** @ **University of Aveiro**  
+- 🎓 I'm currently in the 1st year of a **Masters in Computer and Telematics Engineering** @**University of Aveiro**  
 
 - 🎨 I enjoy learning, playing guitar and coding  
 
 <br/>  
 
 
-## 📊 Github Stats  
-<table><tr valign="middle"><td align="middle">
-
+## 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=PedroDSFerreira&show_icons=true&count_private=true&hide_border=true&hide=prs,contribs"/>
 
-</td><td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDSFerreira&hide_border=true&layout=compact"/>
-
-</td></tr></table>  
 <br/>  
 
 
