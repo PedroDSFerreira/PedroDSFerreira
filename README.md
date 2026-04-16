@@ -8,7 +8,7 @@
 
 ## 👋 Hi, I’m Pedro Ferreira   
 
-- 🎓 I'm currently in the 1st year of a **Master's in Computer and Telematics Engineering** @**University of Aveiro**  
+- 🎓 I'm currently in the 2nd year of a **Master's in Computer and Telematics Engineering** @**University of Aveiro**  
 
 - 🎨 I enjoy learning, playing guitar and coding  
 
